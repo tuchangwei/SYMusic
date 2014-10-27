@@ -13,6 +13,7 @@
 		3B32C69419FC7D7C00B16181 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B32C69319FC7D7C00B16181 /* Images.xcassets */; };
 		3B32C69719FC7D7C00B16181 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B32C69519FC7D7C00B16181 /* LaunchScreen.xib */; };
 		3B32C6A319FC7D7C00B16181 /* SYMusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B32C6A219FC7D7C00B16181 /* SYMusicTests.swift */; };
+		3B32C6AD19FC803700B16181 /* widget.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B32C6AC19FC803700B16181 /* widget.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3B32C69C19FC7D7C00B16181 /* SYMusicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SYMusicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B32C6A119FC7D7C00B16181 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B32C6A219FC7D7C00B16181 /* SYMusicTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SYMusicTests.swift; sourceTree = "<group>"; };
+		3B32C6AC19FC803700B16181 /* widget.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = widget.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		3B32C68919FC7D7C00B16181 /* SYMusic */ = {
 			isa = PBXGroup;
 			children = (
+				3B32C6AC19FC803700B16181 /* widget.png */,
 				3B32C68C19FC7D7C00B16181 /* AppDelegate.swift */,
 				3B32C68E19FC7D7C00B16181 /* ViewController.swift */,
 				3B32C69019FC7D7C00B16181 /* Main.storyboard */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B32C69219FC7D7C00B16181 /* Main.storyboard in Resources */,
+				3B32C6AD19FC803700B16181 /* widget.png in Resources */,
 				3B32C69719FC7D7C00B16181 /* LaunchScreen.xib in Resources */,
 				3B32C69419FC7D7C00B16181 /* Images.xcassets in Resources */,
 			);
