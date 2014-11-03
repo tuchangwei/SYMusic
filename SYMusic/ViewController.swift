@@ -10,9 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //声明时添加！，告诉编译器这个是Optional的，并且之后对该变量操作的时候，都隐式的在操作前添加！
+    @IBOutlet weak var blurImgView: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
     }
 
     override func didReceiveMemoryWarning() {
