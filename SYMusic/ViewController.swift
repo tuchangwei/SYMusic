@@ -15,6 +15,10 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+//        blurImgView .setImageToBlur(UIImage(named: "firstLoadedImg.jpg"), blurRadius: kLBBlurredImageDefaultBlurRadius) { () -> Void in
+//            
+//            print("finish");
+//        }
         
     }
 
